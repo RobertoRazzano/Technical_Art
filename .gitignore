@@ -76,4 +76,4 @@ Plugins/**/Intermediate/
 
 # ESCLUSIONI PERSONALIZZATE
 # Cartella asset pesanti da non tracciare
-Environment_ART1/Content/AssetPesanti/
+AMBIENTE_NEW/Content/AssetPesanti/
