@@ -77,3 +77,6 @@ Plugins/**/Intermediate/
 # ESCLUSIONI PERSONALIZZATE
 # Cartella asset pesanti da non tracciare
 AMBIENTE_NEW/Content/AssetPesanti/
+
+# Cartella Fab (asset scaricati dal plugin)
+**/Content/Fab/
